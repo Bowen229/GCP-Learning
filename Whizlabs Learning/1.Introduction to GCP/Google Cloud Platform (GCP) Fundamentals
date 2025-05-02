@@ -1,0 +1,170 @@
+
+# ☁️ Google Cloud Platform (GCP) Fundamentals
+
+## 📌 Overview
+
+- **GCP** is a suite of cloud computing services offered by Google.
+- Introduced with **App Engine** (April 7, 2008) for developing and hosting web applications.
+- Offers a wide range of services: compute, storage, databases, networking, security, etc.
+- Accessed via public internet or dedicated network connections.
+
+---
+
+## 🧰 Key Features & Benefits
+
+- **Infrastructure and platform services** for building, deploying, and managing applications.
+- **Flexible deployment models**: IaaS, PaaS, and SaaS.
+- **Scalability**, **cost efficiency**, and **flexibility** for organizations.
+- **Evolving suite**: services are frequently updated or retired based on demand and competition.
+
+---
+
+## 🏗️ Deployment Models
+
+| Model  | Responsibility                          | Focus                                 |
+|--------|------------------------------------------|----------------------------------------|
+| IaaS   | You manage CPU, memory, disks, etc.      | Infrastructure and IT operations       |
+| PaaS   | Google manages infrastructure            | DevOps, automation, scaling            |
+| SaaS   | Google manages everything but app usage  | Just manage access and application use |
+
+---
+
+## 🔧 GCP Service Categories
+
+- **Compute**
+- **Storage**
+- **Databases**
+- **Containerization**
+- **Networking**
+- **Security**
+- **Machine Learning & AI**
+
+---
+
+## 🌍 Market Position
+
+- **3rd largest cloud provider** globally.
+- ~**10–11% market share** as of Q1 2023.
+- **Recognized as a Leader** in Gartner Magic Quadrant:
+  - 5th year in a row (2022) – Infrastructure & Platform Services
+  - 6th year in a row (2023) – Strategic Cloud Platform Services
+
+---
+
+## 👥 Notable Customers
+
+- eBay  
+- PayPal  
+- Intel  
+- SAP  
+- Facebook  
+- Marriott International  
+
+---
+
+## 💵 Pricing & Free Tier
+
+- **Pay-as-you-go** model: no upfront payment.
+- **Free Tier**: Includes services like Compute Engine, Cloud Storage, BigQuery, Cloud Functions (with usage limits).
+- **$300 free credits** for new users (valid for 90 days).
+
+---
+
+## 🎓 GCP Certifications
+
+| Level         | Description |
+|---------------|-------------|
+| Foundational  | Introductory knowledge |
+| Associate     | Practical skills (deployment, monitoring, etc.) |
+| Professional  | Advanced technical skills and concepts |
+
+---
+
+## 🧠 Conclusion
+
+GCP represents Google's drive to innovate in cloud computing, offering robust tools and infrastructure for developers and businesses to build, scale, and manage applications in the cloud.
+
+# ☁️ Google Cloud Platform (GCP) Fundamentals
+
+## 📌 Overview
+
+- **GCP** is a suite of cloud computing services offered by Google.
+- Introduced with **App Engine** (April 7, 2008) for developing and hosting web applications.
+- Offers a wide range of services: compute, storage, databases, networking, security, etc.
+- Accessed via public internet or dedicated network connections.
+
+---
+
+## 🧰 Key Features & Benefits
+
+- **Infrastructure and platform services** for building, deploying, and managing applications.
+- **Flexible deployment models**: IaaS, PaaS, and SaaS.
+- **Scalability**, **cost efficiency**, and **flexibility** for organizations.
+- **Evolving suite**: services are frequently updated or retired based on demand and competition.
+
+---
+
+## 🏗️ Deployment Models
+
+| Model  | Responsibility                          | Focus                                 |
+|--------|------------------------------------------|----------------------------------------|
+| IaaS   | You manage CPU, memory, disks, etc.      | Infrastructure and IT operations       |
+| PaaS   | Google manages infrastructure            | DevOps, automation, scaling            |
+| SaaS   | Google manages everything but app usage  | Just manage access and application use |
+
+---
+
+## 🔧 GCP Service Categories
+
+- **Compute**
+- **Storage**
+- **Databases**
+- **Containerization**
+- **Networking**
+- **Security**
+- **Machine Learning & AI**
+
+---
+
+## 🌍 Market Position
+
+- **3rd largest cloud provider** globally.
+- ~**10–11% market share** as of Q1 2023.
+- **Recognized as a Leader** in Gartner Magic Quadrant:
+  - 5th year in a row (2022) – Infrastructure & Platform Services
+  - 6th year in a row (2023) – Strategic Cloud Platform Services
+
+---
+
+## 👥 Notable Customers
+
+- eBay  
+- PayPal  
+- Intel  
+- SAP  
+- Facebook  
+- Marriott International  
+
+---
+
+## 💵 Pricing & Free Tier
+
+- **Pay-as-you-go** model: no upfront payment.
+- **Free Tier**: Includes services like Compute Engine, Cloud Storage, BigQuery, Cloud Functions (with usage limits).
+- **$300 free credits** for new users (valid for 90 days).
+
+---
+
+## 🎓 GCP Certifications
+
+| Level         | Description |
+|---------------|-------------|
+| Foundational  | Introductory knowledge |
+| Associate     | Practical skills (deployment, monitoring, etc.) |
+| Professional  | Advanced technical skills and concepts |
+
+---
+
+## 🧠 Conclusion
+
+GCP represents Google's drive to innovate in cloud computing, offering robust tools and infrastructure for developers and businesses to build, scale, and manage applications in the cloud.
